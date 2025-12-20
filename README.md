@@ -1,6 +1,9 @@
-# agentics-template
+# ✨ Agentics Template
 
 A template to get started with [GitHub Agentic Workflows](https://githubnext.github.io/gh-aw/).
+
+> [!WARNING]
+> GitHub Agentic Workflows are a research demonstrator. This template is for experimental use only. Use at your own risk.
 
 ## Quick Setup
 
