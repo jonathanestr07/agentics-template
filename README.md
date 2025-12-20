@@ -13,6 +13,15 @@ To use Copilot in your workflows, configure a GitHub token:
    - Name: `COPILOT_GITHUB_TOKEN`
    - Paste your token and click **Add secret**
 
+## Debugging Workflows
+
+When your agentic workflows need debugging or optimization:
+
+- **Quick automated fixes**: Comment `/q` in any issue or PR to automatically optimize workflows
+- **Interactive debugging**: In GitHub Copilot Chat, select `debug-agentic-workflow` from the agents dropdown for guided troubleshooting
+
+See [AGENTS.md](AGENTS.md) for comprehensive debugging guides and examples.
+
 ## Learn More
 
 - [GitHub Agentic Workflows Documentation](https://githubnext.github.io/gh-aw/)
